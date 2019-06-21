@@ -1,0 +1,52 @@
+.article-item {
+    border: 0.5px solid gray;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.article-item-title {
+    margin: 0;
+}
+.article-item-detail {
+    margin: 5px;
+}
+.article-title {
+    margin-bottom: 0;
+}
+.article-subtitle {
+    margin: 5px;
+    color: gray;
+}
+.article-detail {
+    margin: 5px;
+}
+
+label, input, select, textarea {
+    display: block;
+}
+input, select, textarea {
+    margin-bottom: 10px;
+}
+.btn {
+    background-color: blue;
+    text-decoration: none;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-size: 13px;
+    margin-top: 10px;
+}
+.btn:hover {
+    background-color: blueviolet;
+}
+.btn-red {
+    background-color: red;
+    text-decoration: none;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-size: 13px;
+    margin-top: 10px;
+}
+.btn-red:hover {
+    background-color: brown;
+}
